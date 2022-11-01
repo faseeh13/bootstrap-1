@@ -210,6 +210,29 @@ font-family: 'Plus Jakarta Sans', sans-serif;
     .carousel-item{
         height: 520px;
     }
+    .service-box{
+        margin-bottom: 0;
+    }
+    .feature {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .Explore{
+        margin-top:80px;
+        margin-bottom: 0;
+    }
+    .feature h2{
+        margin-top:70px;
+    }
+    .feature img{
+        margin-top: 0;
+    }
+    .box-3{
+        margin-bottom: 0;
+    }
+    .Explore h2{
+        margin-top: 20px;
+    }
     .carousel-caption{
         margin: 0 10px 50px 10px;
         left: 0;
